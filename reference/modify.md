@@ -6,4 +6,4 @@ CN:
   
 EN:  
 Modify `padding1.v` module, from `0x01`    to       `0x06`  
-                              `00000001`          `00000110`  
+                               `00000001`         `00000110`  
