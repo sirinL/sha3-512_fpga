@@ -8,6 +8,6 @@ Modify `padding1.v` module, from `0x01`    to       `0x06`
 Reorder bits from LSB to MSB, result of padding from `10000000` to `01100000`  
 
 | Hex | 0x01  | 0x06|
-|---|---|---|
+|:---：|：---：|：---：|
 |Bin|00000001|00000110|
 |Reordered|10000000|01100000|
